@@ -24,3 +24,6 @@ primary key ("id")
 --to open db tunnel in command prompt
 C:\neo-java-web-sdk-1.78.16\tools>neo open-db-tunnel -h hanatrial.ondemand.com -
 i hihanaxs -a p1940399480trial -u p1940399480
+
+--To Grant Select privilage of shema
+call _SYS_REPO.GRANT_SCHEMA_PRIVILEGE_ON_ACTIVATED_CONTENT('select','"NEO_4FH1WG5QDRJVNWPCITP7OUIXN"','DEV_DQD2H3KCLBUFXCKP95E3WJ5TW');
