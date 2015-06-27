@@ -27,3 +27,8 @@ i hihanaxs -a p1940399480trial -u p1940399480
 
 --To Grant Select privilage of shema
 call _SYS_REPO.GRANT_SCHEMA_PRIVILEGE_ON_ACTIVATED_CONTENT('select','"NEO_4FH1WG5QDRJVNWPCITP7OUIXN"','DEV_DQD2H3KCLBUFXCKP95E3WJ5TW');
+--Twitter Acess Tokens
+Consumer key: bvr424ZetUDGdSniHXI43oELu
+Consumer secret: ajp2wCW5zHs4K5w39MvswhFeEphRd6qDOFoXCesrF9wvW1AUNv
+Access token: 3232853184-UgQN8KLrOIYKHWcMiN4UU8725udPxXBZmok2KCH
+Access token secret: GPRKmrF7pKPJ7VBEKW4Z1hngc3GiQfbcCmHTq7Mg2hiOo
